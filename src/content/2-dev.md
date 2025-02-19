@@ -9,7 +9,7 @@ links:
     title: Coolors
     src: coolors.svg
     alt: coolors-icon
-  - href: https://github.com
+  - href: https://github.com/Reshman0
     title: GitHub
     src: github.svg
     alt: github-icon
